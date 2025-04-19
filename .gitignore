@@ -1,0 +1,17 @@
+# Node.js (frontend)
+node_modules/
+dist/
+.env
+
+# ASP.NET (backend)
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+
+# General
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
